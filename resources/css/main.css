@@ -7,3 +7,7 @@
 html {
 	font-family: 'Lato', 'Arial', sans-serif;
 }
+
+.content {
+	margin: 0 auto;
+}
