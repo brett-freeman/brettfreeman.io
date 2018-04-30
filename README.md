@@ -1,1 +1,1 @@
-Codebas of my person portfolio site.
+# Codebase of my personal site.
